@@ -17,7 +17,7 @@ function App() {
                 <Link className="nav-link" to={"/sign-in"}>Login</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to={"/sign-up"}>Sign up</Link>
+                <Link className="nav-link" to={"/sign-up"}>Sign up.</Link>
               </li>
             </ul>
           </div>
